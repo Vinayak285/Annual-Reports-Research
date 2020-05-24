@@ -1,0 +1,15 @@
+This is a list of the tickers along with the years for which financial reports could not be converted either because they were not filed or were secured due to which they could not be read for sentiment analysis.
+ADANITRANS 2016-17
+BOSCHLTD 2013-14 (Not available online)
+COALINDIA 2010-11, 11-12 (Secured)
+EICHERMOT 2014-15 (Not available online)
+HDFC 2017-18 (Secured)
+INFY 2011-12 (Secured)
+JSWSTEEL 2011-12, 13-14, 16-17 (Secured)
+LT 2010-11 (Secured)
+NESTLEIND 2018-19 (Not available online)
+OFSS 2016-17, 17-18, 18-19 (Secured)
+PFC 2014-15 (Secured)
+
+
+TOTAL : 16
